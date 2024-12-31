@@ -6,7 +6,7 @@ RED='\033[0;31m'
 YELLOW='\033[0;33m'
 NC='\033[0m'
 
-curl -s https://file.winsnip.xyz/file/uploads/Logo-winsip.sh | bash
+curl -s https://raw.githubusercontent.com/sadi200/Multiple/refs/heads/main/Logo.sh | bash
 echo "Starting Auto Install Nodes Multiple Network"
 sleep 5
 
